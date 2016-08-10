@@ -6,7 +6,7 @@
 
 "You *choose* to give that information to Magebook, Harry! It's not like they're holding the threat of fines over your head if you don't disclose what livestock you own."
 
-"Livestock?" said Harry, glancing up from his game for a moment. "You know that Hedwig has her own fan-page? It's got over—"
+"[Livestock](https://www.facebook.com/sammyjandrandy/videos/864731206913225)?" said Harry, glancing up from his game for a moment. "You know that Hedwig has her own fan-page? It's got over—"
 
 "I know how many fans it has, Harry! And it's nothing but stupid memes! This is serious!"
 
