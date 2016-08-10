@@ -1,5 +1,3 @@
-## Harry Potter and The Bureau of Statistics
-
 "This is not good," said Hermione, looking up from the array of monitors and information hardware devices in front of her. "The Australian Bureau of Statistics have announced they want to record the names, addresses, and personal details of all Australians and keep that data for the next four years."
 
 "What's wrong with that?" asked Harry, not bothering to look up from his phone. "I mean, I give Magebook all that info anyway, right?"
@@ -140,7 +138,7 @@ Hermione, George, and Fred all collectively raised their eyebrows and stared at 
 
 "Okay, so it was Hermione's idea, but we were working on a project together!"
 
-Hermione coughed politely and turned to the Weasleys. "George, Fred, thank you for all you've done. Thank to your efforts in underprovisioning, the privacy of Australian are now safe."
+Hermione coughed politely and turned to the Weasleys. "George, Fred, thank you for all you've done. Thanks to your efforts in underprovisioning, the privacy of Australian are now safe."
 
 "Well, they still have to pony up all their personal information," said Fred, "and it'll be combined in ways that citizens find objectionable, and probably misused by current and future governments, but it sure was funny when the website crashed and they blamed it on hackers!"
 
