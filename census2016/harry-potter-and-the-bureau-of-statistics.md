@@ -82,7 +82,7 @@ Fred and George entered the room, wearing crisp corporate attire, hair the colou
 
 "Mr Kalisch," said George, extending a hand. "I'm George, this is Fred. It's a pleasure to meet you."
 
-"Likewise," said Kalisch. "I believe you specialize in census infrastructure?"
+"Likewise," said Kalisch. "I believe you specialise in census infrastructure?"
 
 "Of course," said Fred. "We've been running cloud systems longer than anyone."
 
@@ -112,7 +112,7 @@ Kalisch laughed, "No. About half of them are going to use scrolls."
 
 "Actually," said Kalisch, "we may have a problem if everyone does it all at the same time..."
 
-"We've got a muggle friend," said George, "she says that muggles aren't very organized, so I doubt they'll all try to do it after tea or anything. But how about we make it so the site can handle a million per hour, just to be sure?"
+"We've got a muggle friend," said George, "she says that muggles aren't very organised, so I doubt they'll all try to do it after tea or anything. But how about we make it so the site can handle a million per hour, just to be sure?"
 
 "Perfect!" said Kalisch.
 
