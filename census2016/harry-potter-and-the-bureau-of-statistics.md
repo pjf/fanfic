@@ -144,4 +144,4 @@ Hermione coughed politely and turned to the Weasleys. "George, Fred, thank you f
 
 "Well, they still have to pony up all their personal information," said Fred, "and it'll be combined in ways that citizens find objectionable, and probably misused by current and future governments, but it sure was funny when the website crashed and they blamed it on hackers!"
 
-"Owl say!" said Harry, ducking behind Hedwig in a poor attempt at ventriloquism. And everybody laughed, except for Australian residents, citizens, minorities, privacy advocates, Huffington Post readers, and Brenda the Civil Disobedience Penguin.
+"Owl say!" said Harry, ducking behind Hedwig in a poor attempt at ventriloquism. And everybody laughed, except for Australian residents, citizens, minorities, privacy advocates, Huffington Post readers, and [Brenda the Civil Disobedience Penguin](https://www.theguardian.com/commentisfree/2016/aug/05/brenda-the-civil-disobedience-penguin-stars-in-census-night-cage-fight).
