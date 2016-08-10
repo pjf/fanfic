@@ -6,7 +6,7 @@
 
 "You *choose* to give that information to Magebook, Harry! It's not like they're holding the threat of fines over your head if you don't disclose what livestock you own."
 
-"Livestock?" said Harry, glacing up from his game for a moment. "You know that Hedwig has her own fan-page? It's got over—"
+"Livestock?" said Harry, glancing up from his game for a moment. "You know that Hedwig has her own fan-page? It's got over—"
 
 "I know how many fans it has, Harry! And it's nothing but stupid memes! This is serious!"
 
@@ -48,7 +48,7 @@ A dark expression spread across Pauline Malfoy's face... "I don't like it."
 
 "Excellent," said Pauline, steepling her fingers. "Does anyone suspect what we're doing?"
 
-"Nobody, except for a few thousand privacy adovcates, information security professionals, readers of The Guardian, The Shovel, subscribers to the ABC, a socially concerned witch at Hogwarts, anyone with social media, and Brenda the Civil Disobdience Penguin."
+"Nobody, except for a few thousand privacy advocates, information security professionals, readers of The Guardian, The Shovel, subscribers to the ABC, a socially concerned witch at Hogwarts, anyone with social media, and Brenda the Civil Disobedience Penguin."
 
 Pauline's smile grew wider.
 
@@ -74,7 +74,7 @@ Hermione knew that Harry would never start any real work on his own, and took th
 
 ---
 
-David Kalisch looked skeptically at the meeting briefing on his desk. "Special Offer! Today only! Census infrastrcture only $9.6 million dollars!"
+David Kalisch looked skeptically at the meeting briefing on his desk. "Special Offer! Today only! Census infrastructure only $9.6 million dollars!"
 
 "That feels a little too good to be true," thought Kalisch, checking his books. He remembered a public transport ticketing system costing about a [150 times that](https://sites.google.com/site/cheaperthanmyki/). But then again he remembered *that* government had to replace another ticketing system that had been working perfectly well for years, a difficult task indeed, whereas sites like Magebook handled *much* more than 23 million users every day, so maybe $9.6 million dollars was right after all. And this *was* from a Dark Demographer approved company; they had helped develop a machine that is now [the best cancer diagnostician on the planet](http://www.wired.co.uk/article/ibm-watson-medical-doctor) and sold it to a health insurance company that was known for [treating its customers terribly when diagnosed with cancer](http://www.reuters.com/article/us-wellpoint-breastcancer-idUSTRE63M5D420100423). He pressed the button on his intercom; "Kevin, send the representatives from IBM in, please."
 
@@ -82,7 +82,7 @@ Fred and George entered the room, wearing crisp corporate attire, hair the colou
 
 "Mr Kalisch," said George, extending a hand. "I'm George, this is Fred. It's a pleasure to meet you."
 
-"Likewise," said Kalisch. "I believe you specialise in census infrastructure?"
+"Likewise," said Kalisch. "I believe you specialize in census infrastructure?"
 
 "Of course," said Fred. "We've been running cloud systems longer than anyone."
 
@@ -112,7 +112,7 @@ Kalisch laughed, "No. About half of them are going to use scrolls."
 
 "Actually," said Kalisch, "we may have a problem if everyone does it all at the same time..."
 
-"We've got a muggle friend," said George, "she says that muggles aren't very organised, so I doubt they'll all try to do it after tea or anything. But how about we make it so the site can handle a million per hour, just to be sure?"
+"We've got a muggle friend," said George, "she says that muggles aren't very organized, so I doubt they'll all try to do it after tea or anything. But how about we make it so the site can handle a million per hour, just to be sure?"
 
 "Perfect!" said Kalisch.
 
