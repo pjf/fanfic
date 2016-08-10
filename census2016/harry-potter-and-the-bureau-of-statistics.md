@@ -138,7 +138,7 @@ Hermione, George, and Fred all collectively raised their eyebrows and stared at 
 
 "Okay, so it was Hermione's idea, but we were working on a project together!"
 
-Hermione coughed politely and turned to the Weasleys. "George, Fred, thank you for all you've done. Thanks to your efforts in underprovisioning, the privacy of Australian are now safe."
+Hermione coughed politely and turned to the Weasleys. "George, Fred, thank you for all you've done. Thanks to your efforts in underprovisioning, the privacy of Australians are now safe."
 
 "Well, they still have to pony up all their personal information," said Fred, "and it'll be combined in ways that citizens find objectionable, and probably misused by current and future governments, but it sure was funny when the website crashed and they blamed it on hackers!"
 
