@@ -8,7 +8,7 @@
 
 "I know how many fans it has, Harry! And it's nothing but stupid memes! This is serious!"
 
-"Stupid memes?" said Harry, breaking into a lopsided grin. "They always have be owling with laught—HEY!"
+"Stupid memes?" said Harry, breaking into a lopsided grin. "They always have me owling with laught—HEY!"
 
 Hermione dangled the end of the disconnected USB cable between her fingers. "Harry, your phone's battery will survive if you pause your game for just a moment and work with me. You're supposed to be doing your project for Defence against the Democratic Arts, remember?"
 
