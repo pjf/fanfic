@@ -1,8 +1,8 @@
-The crew of the NCC-1701 held their breath as the ship's systems hummed slowly back into life. Scotty had explained that the temporal flux endured by the ship during a time-warp slingshot manoeuvre not only the ship itself under enormous stress, but could also destablize the resonance of the dilithium crystals that regulated the ship's warp core. What's more, the sensors were still recovering from the warp. The USS Enterpise could be anywhere, or anywhen.
+The crew of the NCC-1701 held their breath as the ship's systems hummed slowly back into life. Scotty had explained that the temporal flux endured by the ship during a time-warp slingshot manoeuvre not only the ship itself under enormous stress, but could also destabilize the resonance of the dilithium crystals that regulated the ship's warp core. What's more, the sensors were still recovering from the warp. The USS Enterprise could be anywhere, or anywhen.
 
 The ship's communications whistled. "Engineering to bridge, the warp core is passing diagnostics. You can power her up, captain."
 
-The bridge crew heaved a sigh of relief, and worked hurridly at their stations. After a moment, a blue-green planet hung suspended on the viewscreen.
+The bridge crew heaved a sigh of relief, and worked hurriedly at their stations. After a moment, a blue-green planet hung suspended on the view-screen.
 
 "Earth," said Kirk, "21st Earth... Have we arrived in time?"
 
@@ -12,7 +12,7 @@ Sulu let the statement hang, but a moment later Uhura confirmed his concerns.
 
 "An analysis of the planet's communications networks reveal that the US presidential election has already happened. We're... we're too late."
 
-Kirk's body visably sagged; time-travel was a risky and dangerous feat, and to arrive too late to complete their mission was a serious blow to the captain.
+Kirk's body visibly sagged; time-travel was a risky and dangerous feat, and to arrive too late to complete their mission was a serious blow to the captain.
 
 "Captain, even though we're too late for the election, I believe I may have something that would be of interest to you," said Spock.
 
