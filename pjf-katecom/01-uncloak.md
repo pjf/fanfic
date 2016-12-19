@@ -1,4 +1,4 @@
-The crew of the NCC-1701 held their breath as the ship's systems hummed slowly back into life. Scotty had explained that the temporal flux endured by the ship during a time-warp slingshot manoeuvre not only the ship itself under enormous stress, but could also destabilize the resonance of the dilithium crystals that regulated the ship's warp core. What's more, the sensors were still recovering from the warp. The USS Enterprise could be anywhere, or anywhen.
+The crew of the NCC-1701 held their breath as the ship's systems hummed slowly back into life. Scotty had explained that the temporal flux endured by the ship during a time-warp slingshot manoeuvre not only put the ship itself under enormous stress, but could also destabilize the resonance of the dilithium crystals that regulated the ship's warp core. What's more, the sensors were still recovering from the warp. The USS Enterprise could be anywhere, or anywhen.
 
 The ship's communications whistled. "Engineering to bridge, the warp core is passing diagnostics. You can power her up, captain."
 
