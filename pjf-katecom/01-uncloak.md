@@ -4,7 +4,7 @@ The ship's communications whistled. "Engineering to bridge, the warp core is pas
 
 The bridge crew heaved a sigh of relief, and worked hurriedly at their stations. After a moment, a blue-green planet hung suspended on the view-screen.
 
-"Earth," said Kirk, "21st Earth... Have we arrived in time?"
+"Earth," said Kirk, "21st century Earth... Have we arrived in time?"
 
 "I'm calculating the exact date from planetary positions now," said Sulu, "but I fear..."
 
