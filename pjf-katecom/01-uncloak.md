@@ -16,9 +16,9 @@ Kirk's body visibly sagged; time-travel was a risky and dangerous feat, and to a
 
 "Captain, even though we're too late for the election, I believe I may have something that would be of interest to you," said Spock.
 
-"What is it, Spock?"
+"What is it?"
 
-The main screen switched a static image of an attractive female human, with long brown hair, dark rimmed glasses, and a smile that shined brighter than the ship's electro-plasma distribution network.
+The main screen switched to a static image of an attractive female human, with long brown hair, dark rimmed glasses, and a smile that shined brighter than the ship's electro-plasma distribution network.
 
 "Sir, I believe that we've located Kate McCombs. While much about her personal life was lost in the wars of the early 21st century, her works were instrumental in our contact and understanding of the Deltans, and a ritual she developed formed the basis of the Vulcan ceremony of plomeek and arei'mnu. This would be a rare chance to study her life first-hand."
 
